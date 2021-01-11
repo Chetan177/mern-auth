@@ -1,6 +1,6 @@
 # MERN-Auth 
 
-Application which implements following using MERN Stack
+Application which implements following
 - Authentication
 - Login
 - Register
@@ -8,3 +8,9 @@ Application which implements following using MERN Stack
 - Facebook
 - Google 
 - Forget Password
+
+Technologies used:
+- Nodejs
+- ReactJS
+- MongoDB
+- Express
